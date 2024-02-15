@@ -1,2 +1,2 @@
 # rauc-minimal-setup
-Minimal setup to be able to use rauc
+`./setup` And you'll see traces for a working rauc info and a failing `rauc install`
